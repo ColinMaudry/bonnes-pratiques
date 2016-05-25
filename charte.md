@@ -1,10 +1,10 @@
 Ici, on a le droit…
 
 - de dire « je ne sais pas »
-- de demander pour clarifier quelque chose
+- de demander à ce que quelque chose soit clarifié
 - de rester chez soi quand on se sent mal
 - de dire qu'on n'a pas compris
-- de demander ce que veulent dire les sigles
+- de demander ce que signifient les sigles
 - d’oublier des trucs
 - de se présenter
 - de s’appuyer sur l’équipe
@@ -12,7 +12,7 @@ Ici, on a le droit…
 - de ne pas tout savoir
 - d’être taiseux certains jours
 - d’autres jours, de parler fort, de rire et faire des vannes
-- de mettre le casque sur les oreilles
+- de mettre son casque sur les oreilles
 - de dire « non » quand on n’a pas le temps
 - de faire des erreurs
 - de chanter
