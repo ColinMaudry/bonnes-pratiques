@@ -27,7 +27,7 @@ Ici, on a le droit…
 - d'accepter quand quelqu'un propose du café
 - de préférer le thé
 - de grignoter
-- d'avoir un bureau mal rangé
+- d'avoir un bureau en désordre
 - d'avoir un bureau bien rangé
 - de bosser comme on a envie de bosser
 - de demander à la hiérarchie de résoudre un problème
