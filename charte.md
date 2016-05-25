@@ -1,8 +1,8 @@
 Ici, on a le droit…
 
 - de dire « je ne sais pas »
-- de demander pour clarifier quelque chose
-- de rester chez soi quand on se sent mal
+- de demander de clarifier quelque chose
+- de rester chez soi quand on se sent malade
 - de dire qu'on n'a pas compris
 - de demander ce que veulent dire les sigles
 - d’oublier des trucs
@@ -10,25 +10,25 @@ Ici, on a le droit…
 - de s’appuyer sur l’équipe
 - de demander de l'aide
 - de ne pas tout savoir
-- d’être taiseux certains jours
-- d’autres jours, de parler fort, de rire et faire des vannes
-- de mettre le casque sur les oreilles
+- d’être silencieux certains jours
+- d’autres jours, de parler fort, de rire et de faire des vannes
+- de mettre un casque sur ses oreilles
 - de dire « non » quand on n’a pas le temps
 - de faire des erreurs
 - de chanter
 - de soupirer
 - de ne pas consulter ses mails sur son temps libre
 - de ne pas consulter ses mails tout le temps au boulot
-- d'aller demander sur Slack
-- d'aller voir les collègues et leur demander en personne
+- de demander sur Slack
+- de demander en personne aux collègues
 - de s’isoler pour se concentrer
 - de donner son avis sur le travail des autres
 - de critiquer ce qui nous met mal à l'aise
-- d'accepter quand quelqu'un propose de faire du café
-- de préferer le thé
+- d'accepter quand quelqu'un propose du café
+- de préférer le thé
 - de grignoter
-- d'avoir un bureau bordélique
-- d'avoir un bureau au cordeau
+- d'avoir un bureau mal rangé
+- d'avoir un bureau bien rangé
 - de bosser comme on a envie de bosser
 - de demander à la hiérarchie de résoudre un problème
 - d'avoir un jour sans
