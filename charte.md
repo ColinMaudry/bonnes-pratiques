@@ -1,19 +1,19 @@
-Ici on a le droit...
+Ici, on a le droit…
 
-- de dire "je ne sais pas"
+- de dire « je ne sais pas »
 - de demander pour clarifier quelque chose
 - de rester chez soi quand on se sent mal
 - de dire qu'on n'a pas compris
 - de demander ce que veulent dire les sigles
-- d'oublier des trucs
+- d’oublier des trucs
 - de se présenter
-- de s'appuyer sur l'équipe
+- de s’appuyer sur l’équipe
 - de demander de l'aide
 - de ne pas tout savoir
-- d'être taiseux certains jours
-- d'autres jours, de parler fort, de rire et faire des vannes
+- d’être taiseux certains jours
+- d’autres jours, de parler fort, de rire et faire des vannes
 - de mettre le casque sur les oreilles
-- de dire "non" quand on n'a pas le temps
+- de dire « non » quand on n’a pas le temps
 - de faire des erreurs
 - de chanter
 - de soupirer
@@ -21,7 +21,7 @@ Ici on a le droit...
 - de ne pas consulter ses mails tout le temps au boulot
 - d'aller demander sur Slack
 - d'aller voir les collègues et leur demander en personne
-- de s'isoler pour se concentrer
+- de s’isoler pour se concentrer
 - de donner son avis sur le travail des autres
 - de critiquer ce qui nous met mal à l'aise
 - d'accepter quand quelqu'un propose de faire du café
